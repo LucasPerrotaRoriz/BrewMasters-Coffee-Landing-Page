@@ -14,7 +14,7 @@ BrewMasters is a landing page made for a coffee shop. It's responsive allowing t
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript
 
-Made use of the <a href="https://scrollrevealjs.org/" target="_blank">Swiperjs library<a/> and <a href="https://swiperjs.com/" target="_blank">Swiperjs library<a/>to implement the 
+Made use of the <a href="https://scrollrevealjs.org/" target="_blank">ScrollRevealJS library<a/> and <a href="https://swiperjs.com/" target="_blank">Swiperjs library<a/>to implement the 
 animations of the sections and the slider. 
 
 
@@ -27,7 +27,7 @@ In the future i may make this with a multipage approach and design a backend to 
 * Mobile first approach
 * Mobile menu
 * BEM and code organization
-* Mobile navigation aimation
+* Mobile navigation animations
 * Newsletter made with Convertkit to capture user email
 
 <!-- 
