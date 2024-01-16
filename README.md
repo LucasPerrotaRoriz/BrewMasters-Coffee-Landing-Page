@@ -3,7 +3,7 @@
 # My Awesome Project
 BrewMasters is a landing page made for a coffee shop. It's responsive allowing to be visible in multiples devices. 
 
-<a href="https://lucasperrotaroriz.github.io/Coffee-Landing-Page-01/">**Link to project:** </a>
+<a href="https://lucasperrotaroriz.github.io/BrewMasters-Coffee-Landing-Page/">**Link to project:** </a>
 
 ## Desktop View
 ![preview img](https://github.com/LucasPerrotaRoriz/Coffee-Landing-Page-01/blob/main/assets/img/coffee-landing.gif?raw=true)
